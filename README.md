@@ -1,0 +1,2 @@
+# Python and Ai Bootcamp
+Welcome to my AI Bootcamp repository! This repository serves as a daily tracker for my learning journey, code snippets, projects, and assignments, organized systematically week by week.
