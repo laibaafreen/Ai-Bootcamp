@@ -1,0 +1,23 @@
+{
+  "model_name": "RandomForestPipeline",
+  "versions": {
+    "1.0.0": {
+      "random_seed": 42,
+      "pickle_file": "model_v1.0.0.pkl",
+      "joblib_file": "model_v1.0.0.joblib",
+      "date_saved": "2026-07-25T11:02:45.813924"
+    },
+    "1.1.0": {
+      "random_seed": 7,
+      "pickle_file": "model_v1.1.0.pkl",
+      "joblib_file": "model_v1.1.0.joblib",
+      "date_saved": "2026-07-25T11:02:45.813949"
+    },
+    "2.0.0": {
+      "random_seed": 123,
+      "pickle_file": "model_v2.0.0.pkl",
+      "joblib_file": "model_v2.0.0.joblib",
+      "date_saved": "2026-07-25T11:02:45.813956"
+    }
+  }
+}
