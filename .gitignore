@@ -1,0 +1,51 @@
+# ── Credentials (NEVER commit) ─────────────────────────────────────────────
+kaggle.json
+.env
+*.env
+secrets.json
+
+# ── Datasets & image folders ────────────────────────────────────────────────
+flowers/
+**/flowers/
+datasets/
+**/datasets/
+data/
+*.tar.gz
+*.tar
+*.gz
+
+# ── Model weights & binary model files ─────────────────────────────────────
+*.pt
+*.pth
+*.h5
+*.pkl
+*.joblib
+*.pb
+*.onnx
+*.bin
+
+# ── Vector DB / ChromaDB ───────────────────────────────────────────────────
+chroma_db*/
+**/chroma_db*/
+*.sqlite3
+*.pickle
+
+# ── Archives / zips ────────────────────────────────────────────────────────
+*.zip
+*.rar
+*.7z
+
+# ── Python cache & env ─────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env/
+venv/
+env/
+.venv/
+
+# ── Jupyter / misc ─────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.log
